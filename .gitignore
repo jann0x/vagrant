@@ -1,0 +1,12 @@
+.vagrant/
+*.sql
+bin/*
+root/var/www/*
+root/bin/*
+root/var/lib/*
+root/tmp/*
+root/etc/ssl/devmachine/*
+root/callgrind/*.xp
+root/tools/*_custom.sh
+root/tools/custom/*
+$RECYCLE.BIN/*
